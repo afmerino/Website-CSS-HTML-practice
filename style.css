@@ -1,0 +1,21 @@
+  body {
+    background-color: lightcoral;
+  }
+  
+  h1 {
+    color: orange;
+    font-size: 50px;
+    background: orangered;
+
+  }
+  
+  .quote {
+      color: teal;
+      font-size: 25px;
+  }
+
+  #Amaris {
+      color: forestgreen;
+      font-size: 20px;
+      
+  }
